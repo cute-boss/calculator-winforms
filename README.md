@@ -1,6 +1,6 @@
 # calculator-winforms
 
-This is created using visual studio 2010.
+Created using visual studio 2010.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cute-boss/calculator-winforms/blob/main/Calculator.png">
