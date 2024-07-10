@@ -1,3 +1,3 @@
 # calculator-winforms
 
-This is created using visula studio 2010.
+This is created using visual studio 2010.
